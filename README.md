@@ -19,6 +19,10 @@ Each project demonstrates my understanding of UI development, JavaScript logic, 
 ### 1️⃣ Tic Tac Toe Login Game
 - **Tech Stack:** HTML, CSS, JavaScript
 - **Description:** A Tic Tac Toe game with a simple login flow and interactive gameplay.
+- **Demo Credentials:**  
+  - Username: admin  
+  - Password: 1234
+
 - **Live Demo:** https://theajeetcodes.github.io/tic-tac-toe-login-game/
 - **Source Code:** https://github.com/theajeetcodes/tic-tac-toe-login-game
 
