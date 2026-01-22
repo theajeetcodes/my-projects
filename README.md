@@ -99,7 +99,7 @@ https://github.com/theajeetcodes/wall-clock
 
 ## 🚧 Work in Progress
 
-### 🏪 Uncle’s Kirana Store Website
+### 🏪 Uncle Kirana Store Website
 **Tech Stack:** HTML, CSS, JavaScript  
 
 **Description:**  
