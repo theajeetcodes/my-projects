@@ -97,26 +97,25 @@ https://github.com/theajeetcodes/wall-clock
 
 ---
 
-## 🚧 Work in Progress
-
-### 🏪 Uncle Kirana Store Website
+### 6️⃣ 🏪 Uncle Kirana Store Website
 **Tech Stack:** HTML, CSS, JavaScript  
 
 **Description:**  
 A real-world frontend project for a local kirana store, focused on clean UI, mobile responsiveness, and business-oriented design.
 
-🚧 **Status:** Work in Progress  
-🔗 **Live Demo:** Coming Soon  
-📂 **Source Code:** Coming Soon
+🚀 **Status:** Frontend Phase Completed  
+🔗 **Live Demo:** https://theajeetcodes.github.io/uncle-kirana-store/  
+📂 **Source Code:** https://github.com/theajeetcodes/uncle-kirana-store
 
 ---
 
 ## 📈 Future Improvements
 
-- Add more real-world client projects
-- Improve UI/UX consistency
-- Introduce accessibility best practices
-- Optimize performance and code structure
+- Add more real-world client projects  
+- Improve UI/UX consistency  
+- Introduce accessibility best practices  
+- Optimize performance and code structure  
+- Upgrade **Uncle Kirana Store** with backend integration (full-stack functionality)  
 
 ---
 
