@@ -109,6 +109,19 @@ A real-world frontend project for a local kirana store, focused on clean UI, mob
 
 ---
 
+### 7️⃣ Portfolio Website
+**Tech Stack:** HTML, CSS, JavaScript  
+
+**Description:**  
+A personal portfolio site showcasing my projects, skills, and contact information.  
+Designed to highlight my frontend abilities and provide a professional online presence.
+
+🚧 **Status:** Work in Progress / Currently Working  
+🔗 **Live Demo:** Coming Soon  
+📂 **Source Code:** Coming Soon
+
+---
+
 ## 📈 Future Improvements
 
 - Add more real-world client projects  
