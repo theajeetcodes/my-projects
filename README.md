@@ -144,27 +144,49 @@ https://github.com/theajeetcodes/portfolio
 
 ---
 
-### 9️⃣ 📸 Instagram Clone (In Progress)
-**Tech Stack:** HTML, CSS (JavaScript coming soon)
+### 9️⃣ 📸 Instagram Clone
 
-UI clone inspired by Instagram design.
+**Tech Stack:** HTML, CSS, JavaScript
 
-🚧 **Status:** Currently Working  
-🔗 **Live Demo:** 
-*Coming soon...*
+A premium and responsive Instagram Clone inspired by the modern Instagram interface. The project features dynamic post rendering, interactive story viewer functionality, responsive layouts, media support, and a dedicated profile page.
 
-📂 **Source Code:**  
-https://github.com/theajeetcodes/instagram-clone  
+✅ Fully Responsive Design
+✅ Dynamic Post Rendering
+✅ Story Viewer Functionality
+✅ Like Button Interactions
+✅ Dedicated Profile Page
+✅ Image & Video Support
+
+🚀 **Status:** Completed
+
+🔗 **Live Demo:**
+https://theajeetcodes.github.io/instagram-clone/
+
+📂 **Source Code:**
+https://github.com/theajeetcodes/instagram-clone
 
 ---
 
-## 📈 Future Improvements
+### 🔟 ✅ Todo App
 
-- 🔥 Add real client projects  
-- 🎯 Improve UI/UX consistency  
-- ♿ Accessibility improvements  
-- ⚡ Performance optimization  
-- 🧠 Convert projects to full-stack apps  
+**Tech Stack:** HTML, CSS, JavaScript, LocalStorage
+
+A modern Todo Application built with JavaScript and LocalStorage support. Users can add, edit, delete, search, filter, and manage tasks efficiently through a clean glassmorphism interface.
+
+✅ Add, Edit & Delete Tasks
+✅ Task Completion Tracking
+✅ Search Functionality
+✅ Task Filtering (All / Completed / Pending)
+✅ LocalStorage Data Persistence
+✅ Responsive Glassmorphism UI
+
+🚀 **Status:** Completed
+
+🔗 **Live Demo:**
+https://theajeetcodes.github.io/todo-app/
+
+📂 **Source Code:**
+https://github.com/theajeetcodes/todo-app
 
 ---
 
