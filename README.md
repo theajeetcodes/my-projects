@@ -190,7 +190,32 @@ https://github.com/theajeetcodes/todo-app
 
 ---
 
-### 1️⃣1️⃣ 🤖 Thinkora AI
+### 1️⃣1️⃣ 🌦️ Weather App
+
+**Tech Stack:** HTML, CSS, JavaScript, OpenWeatherMap API
+
+A modern and responsive Weather Application that fetches real-time weather data using the OpenWeatherMap API. Users can search any city worldwide and instantly view temperature, weather conditions, humidity, wind speed, feels-like temperature, and dynamic weather icons.
+
+✅ Real-Time Weather Data
+✅ City Search Functionality
+✅ Dynamic Weather Icons
+✅ Enter Key Search Support
+✅ Loading State Management
+✅ Error Handling & Validation
+✅ Responsive Glassmorphism UI
+✅ Mobile-Friendly Design
+
+🚀 **Status:** Completed
+
+🔗 **Live Demo:**
+https://theajeetcodes.github.io/weather-app-/
+
+📂 **Source Code:**
+https://github.com/theajeetcodes/weather-app-
+
+---
+
+### 1️⃣2️⃣ 🤖 Thinkora AI
 
 **Tech Stack:** HTML, CSS, JavaScript, AI API Integration
 
