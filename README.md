@@ -190,6 +190,30 @@ https://github.com/theajeetcodes/todo-app
 
 ---
 
+### 1️⃣1️⃣ 🤖 Thinkora AI
+
+**Tech Stack:** HTML, CSS, JavaScript, AI API Integration
+
+A modern AI-powered chatbot inspired by ChatGPT, built with Vanilla JavaScript. Thinkora focuses on delivering an interactive conversational experience with a clean user interface and dynamic frontend functionality.
+
+✅ Dynamic UI Generated with JavaScript
+✅ Modern Chat Interface
+✅ Responsive Design
+✅ AI-Powered Conversations
+✅ Sidebar Navigation
+✅ Clean & Professional User Experience
+✅ Scalable Architecture for Future Features
+
+🚧 **Status:** In Progress
+
+🔗 **Live Demo:**
+Coming Soon...
+
+📂 **Source Code:**
+https://github.com/theajeetcodes/thinkora
+
+---
+
 ## 📬 Contact
 
 <p align="center">
