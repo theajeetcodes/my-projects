@@ -215,11 +215,11 @@ https://github.com/theajeetcodes/weather-app-
 
 ---
 
-### 1️⃣2️⃣ 🤖 Thinkora AI
+### 1️⃣2️⃣ 🤖 Thinkora 
 
 **Tech Stack:** HTML, CSS, JavaScript, AI API Integration
 
-A modern AI-powered chatbot inspired by ChatGPT, built with Vanilla JavaScript. Thinkora focuses on delivering an interactive conversational experience with a clean user interface and dynamic frontend functionality.
+A modern AI-powered chatbot inspired by ChatGPT, built with HTML, CSS, and JavaScript. Thinkora focuses on delivering an interactive conversational experience with a clean user interface and dynamic frontend functionality.
 
 ✅ Dynamic UI Generated with JavaScript
 ✅ Modern Chat Interface
@@ -232,10 +232,32 @@ A modern AI-powered chatbot inspired by ChatGPT, built with Vanilla JavaScript. 
 🚧 **Status:** In Progress
 
 🔗 **Live Demo:**
-Coming Soon...
+https://theajeetcodes.github.io/Thinkora/
 
 📂 **Source Code:**
 https://github.com/theajeetcodes/thinkora
+
+---
+
+### 1️⃣3️⃣ 🛒 Amazon Clone
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+A modern Amazon-inspired e-commerce frontend built to recreate the Amazon shopping experience. This project focuses on building a clean, responsive, and scalable user interface using modern frontend development practices.
+
+✅ Amazon-Style Navigation Bar
+✅ Homepage Layout
+✅ Responsive Design
+✅ Clean & Organized Code Structure
+✅ Modern UI Development
+
+🚧 **Status:** In Progress
+
+🔗 **Live Demo:**
+*Coming soon...*
+
+📂 **Source Code:**
+https://github.com/theajeetcodes/amazon-clone
 
 ---
 
